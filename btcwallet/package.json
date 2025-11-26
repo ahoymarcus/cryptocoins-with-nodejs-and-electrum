@@ -1,0 +1,17 @@
+{
+  "name": "btcwallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ISC",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip36": "^3.0.4",
+    "bitcoinjs-lib": "^6.0.1"
+  }
+}
+
