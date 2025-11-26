@@ -125,6 +125,13 @@ Para se executar o script acima, basta acessar a pasta **src** e digitar no term
 ![criando-conta-bitcoin-com-o-nodejs-e-a-private-key](./public/criando-conta-bitcoin-com-o-nodejs-e-a-private-key.png)
 
 
+Dentre as saídas importantes do código acima, podemos ver:
+
+- **Endereço**: endereço de coneção para a conta da carteira crypto.
+- **Chave privada**: esse hash deve ser usado para criar a conta na aplicação de gerenciamento de criptomoedas.
+- **Seed**: trata-se do menemônico que permite acessar a carteira na aplicação de gerenciamento de criptomoedas.
+
+
 Finalmente, para terminar a preparação do ambiente de teste do laboratório, é preciso baixar e instalar o software do gerenciador de carteiras bitcoin:
 
 ![site-do-electrum-para-baixar-a-aplicacao](./public/site-do-electrum-para-baixar-a-aplicacao.png)
@@ -152,7 +159,7 @@ Vemos na imagem acima, que no Windows isso pode ser feito adicionando-se a flag 
 
 Depois é preciso ir ao site da **bitcoin testnet faucet** para requerer uma quantidade limitada da **Faucet coin** para serem utilizadas nos testes deste laboratório:
  
-![site-do-bitcoin-testnet-faucet](./public/site-do-bitcoin-testnet-faucetsite-do-bitcoin-testnet-faucetsite-do-bitcoin-testnet-faucet)
+![site-do-bitcoin-testnet-faucet](./public/site-do-bitcoin-testnet-faucet.png)
 
 
 Na sequência, podemos ver no site [Blockchain.com](https://www.blockchain.com), que é uma empresa de serviços financeiros para criptomoedas na Internet, que a nossa carteira gerenciada pelo Electrum possui transações com a bitcoin **faucet**:
