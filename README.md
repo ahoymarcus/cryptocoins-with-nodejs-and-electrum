@@ -177,44 +177,6 @@ Na sequência, podemos ver no site [Blockchain.com](https://www.blockchain.com),
 Interessante notar ainda, que os testes das transações financeiras podem utilizar o mesmo programa javascript para a criação de novas carteiras e endereços como destino para as **faucet coins**: **createWallet.js**
 
 
-
-![](./public/)
-![](./public/)
-
-<br>
-
-##  
-
-
-
-
-
-
-
-
-
-
-![](./public/)
-![](./public/)
-![](./public/)
-
-<br>
-
-## Considerações Finais 
-
-
-
-
-
-
-
-
-
-
-![](./public/)
-![](./public/)
-![](./public/)
-
 <br>
 
 ## Outros links:
